@@ -1,0 +1,21 @@
+.section {
+    height: 100vh;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+* {
+    padding-inline-start: 0;
+    box-sizing: border-box;
+}
+user agent stylesheet
+section {
+    display: block;
+}
+html {
+    line-height: 1.15;
+    -webkit-text-size-adjust: 100%;
+}
+user agent stylesheet
+html {
+    color: -internal-root-color;
+}
